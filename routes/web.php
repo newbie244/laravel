@@ -60,3 +60,5 @@ route::get('/setting', function(){
 });
 
 Route::resource('/poto', \App\Http\Controllers\PotoController::class);
+
+// halo
